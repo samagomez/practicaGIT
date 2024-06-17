@@ -16,6 +16,7 @@ public class chatGPTTest {
 	    int mayor = mayorDeTres(num1, num2, num3);
 	    System.out.println("El número mayor es: " + mayor);
 	    System.out.println("git ");
+		System.out.println("bajame los cambios ");
 	}
 
 	 public static int mayorDeTres(int a, int b, int c) {
